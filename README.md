@@ -1,4 +1,4 @@
-# 🎲 Simulación de Galton Board en Python
+# 🎲 Simulación de Galton Board 
 
 Este proyecto consiste en una simulación de una **Galton Board** (también conocida como máquina de Galton o máquina de los frijoles), utilizando Python. La máquina simula el comportamiento de bolitas que caen a través de una serie de niveles y deciden aleatoriamente moverse a la izquierda o a la derecha, acumulándose al final en diferentes posiciones.
 
